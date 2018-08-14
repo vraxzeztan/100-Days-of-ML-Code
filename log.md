@@ -16,3 +16,15 @@
 **Today's Progress** - Worked on MNIST dataset using tensorflow
 
 **Thoughts** - Next up keras and CNNs.
+
+## Day 4 - 14 Aug 2018
+
+**Today's Progress** - Read about CNNs and Keras
+
+**Thoughts** - Will work on MNIST data using CNN by keras
+
+## Day 5 - 15 August 2018
+
+**Today's Progress** - Implemented CNN on MNIST data using Keras
+
+**Thoughts** - Happy Independence Day 
