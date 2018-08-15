@@ -25,6 +25,6 @@
 
 ## Day 5 - 15 August 2018
 
-**Today's Progress** - Implemented CNN on MNIST data using Keras
+**Today's Progress** - Implemented CNN on MNIST data using Keras, Worked on RNNs.
 
 **Thoughts** - Happy Independence Day 
