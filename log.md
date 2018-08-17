@@ -34,3 +34,8 @@
 **Today's Progress** - Implemented CNN and SVM classifier on cifar-10 dataset
 
 **Thoughts** - CNNs are really powerful and easy to use with Keras
+
+## Day 7 - 17 August 2018
+
+**Today's Progress** - Read about RNNs
+
