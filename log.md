@@ -39,3 +39,8 @@
 
 **Today's Progress** - Read about RNNs
 
+## Day 8 - 18 August 2018
+
+**Today's Progress** - Started work on OpenCV library
+
+
