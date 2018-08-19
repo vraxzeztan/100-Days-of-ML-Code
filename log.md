@@ -43,4 +43,7 @@
 
 **Today's Progress** - Started work on OpenCV library
 
+## Day 9 - 19 August 2018
+
+**Today's Progress** - Learned about handling images as data in numpy arrays. Worked on some previous projects of Regression.
 
