@@ -47,3 +47,8 @@
 
 **Today's Progress** - Learned about handling images as data in numpy arrays. Worked on some previous projects of Regression.
 
+## Day 10 - 20 August 2018
+
+**Today's Progress** - Text Classification using Multinomial Naive Bayes
+
+
