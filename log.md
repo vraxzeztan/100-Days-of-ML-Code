@@ -51,4 +51,9 @@
 
 **Today's Progress** - Text Classification using Multinomial Naive Bayes
 
+## Day 11 - 21 August 2018
+
+**Today's Progress** - Twitter Sentiment Analysis using NLP
+
+
 
