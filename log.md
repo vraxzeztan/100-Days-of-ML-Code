@@ -55,5 +55,11 @@
 
 **Today's Progress** - Twitter Sentiment Analysis using NLP
 
+## Day 12 - 22 August 2018
 
+**Today's Progress** - Revised NLP
+
+## Day 13 - 23 August 2018
+
+**Today's Progress** - Started work on Fashion MNIST dataset
 
