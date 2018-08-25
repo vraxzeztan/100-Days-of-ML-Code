@@ -63,3 +63,10 @@
 
 **Today's Progress** - Started work on Fashion MNIST dataset
 
+## Day 14 - 24 August 2018
+
+**Today's Progress** - Revised CNNs
+
+## Day 15 - 25 August 2018
+
+**Today's Progress** - Break..
