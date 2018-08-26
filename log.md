@@ -70,3 +70,8 @@
 ## Day 15 - 25 August 2018
 
 **Today's Progress** - Break..
+
+## Day 16 - 26 August 2018
+
+**Today's Progress** - Was out for a couple of days for Rakhi so did nothing tbh.
+
