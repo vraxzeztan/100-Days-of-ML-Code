@@ -75,3 +75,8 @@
 
 **Today's Progress** - Was out for a couple of days for Rakhi so did nothing tbh.
 
+## Day 17 - 27 August 2018
+
+**Today's Progress** - Revised basics of neural networks, maths behind forward and back propagation
+
+**Thoughts** - Seeing the maths at first sent me south at first, but got back on track after a few minutes of concentration
