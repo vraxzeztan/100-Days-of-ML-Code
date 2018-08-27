@@ -79,4 +79,4 @@
 
 **Today's Progress** - Revised basics of neural networks, maths behind forward and back propagation
 
-**Thoughts** - Seeing the maths at first sent me south at first, but got back on track after a few minutes of concentration
+**Thoughts** - Seeing the maths sent me south at first, but got back on track after a few minutes of concentration
