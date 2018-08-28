@@ -80,3 +80,9 @@
 **Today's Progress** - Revised basics of neural networks, maths behind forward and back propagation
 
 **Thoughts** - Seeing the maths sent me south at first, but got back on track after a few minutes of concentration
+
+## Day 18 - 28 August 2018
+
+**Today's Progress** - Read about AutoEncoders a little bit
+
+
