@@ -85,4 +85,6 @@
 
 **Today's Progress** - Read about AutoEncoders a little bit
 
+## Day 19 - 29 August 2018
 
+**Today's Progress** - Saw some videos on AutoEncoders
