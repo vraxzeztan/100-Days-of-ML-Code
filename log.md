@@ -88,3 +88,7 @@
 ## Day 19 - 29 August 2018
 
 **Today's Progress** - Saw some videos on AutoEncoders.
+
+## Day 20 - 30 August 2018
+
+**Today's Progress** - Redid the maths behind Regularization of Logistic regression and Neural Networks.
