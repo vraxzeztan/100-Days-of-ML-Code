@@ -92,3 +92,37 @@
 ## Day 20 - 30 August 2018
 
 **Today's Progress** - Redid the maths behind Regularization of Logistic regression and Neural Networks.
+
+##Day 21 - 31 August 2018
+
+**Today's Progress** - Started learning about tuning hyperparameters
+
+##Day 22 - 1 September 2018
+
+**Today's Progress** - Learned about Regularization and Optimization Algos
+
+##Day 23 - 2 September 2018
+
+**Today's Progress** - Learned about Regression with momentum, RMSProp and Adam Optimization
+
+##Day 24 - 3 September 2018
+
+**Today's Progress** - Learned about Batch Normalization
+
+##Day 25 - 4 September 2018
+
+**Today's Progress** - Revised what I learned in tuning hyperparameters.
+
+##Day 26 - 5 September 2018
+
+**Today's Progress** - Read about an idea for emojinator
+
+##Day 27 - 6 September 2018
+
+**Today's Progress** - Went back to image processing
+
+##Day 28 - 7 September 2018
+
+**Today's Progress** - Saw some videos about face detection's intuition
+
+
